@@ -13,6 +13,8 @@ The client would like you to **answer the following questions using SQL**:
 5. How did the average price paid (in EUR) relate to the average subjective well-being of my players by gender and by country?
 6. How many players do I have per country and how many of them were surveyed by 12traits?
 
+**Please push your solution to a new branch and initiate a pull request.**
+
 ## Data Sources
 All data files can be found in the folder `data/`.
 
