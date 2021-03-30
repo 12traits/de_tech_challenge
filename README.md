@@ -5,7 +5,7 @@ A European game developer company entrusted 12traits to conduct the psychologica
 
 We would like to ask you to **process these files using the Python programming language (including any tool of your choice with a Python API).** 
 
-The client would like you to **answer the following questions using SQL**:
+The client would like you to **answer the following questions**:
 
 1. What is my total revenue in EUR?
 3. Which players have spent the most? Please provide the player IDs of the top 10.
