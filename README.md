@@ -8,8 +8,8 @@ We would like to ask you to **process these files using the Python programming l
 The client would like you to **answer the following questions using SQL**:
 
 1. What is my total revenue in EUR?
-3. Which players had the top 10 highest LTV by country? Lifetime Value, or LTV, is defined as the cumulative sum of payments over a player's life cycle.
-4. Which browser was the most popular among the paying users?
+3. Which players have spent the most? Please provide the player IDs of the top 10.
+4. Which browser was the most popular among the users? What about only the playing users?
 5. How did the average price paid (in EUR) relate to the average subjective well-being of my players by gender and by country?
 6. How many players do I have per country and how many of them were surveyed by 12traits?
 
