@@ -25,7 +25,7 @@ Draft ERD:
 ### Psychological responses
 **Source:** 12traits
 
-The psychological responses collected by 12traits are accessible in the GZIP-compressed TSV file `psych_responses.tsv.gzip`.
+The psychological responses collected by 12traits are accessible in the gzip-compressed TSV file `psych_responses.tsv.gz`.
 
 Please note that the response IDs under the field `response_id` are different from the `player_id` fields in the other files and only a fraction of players were surveyed by 12traits.
 
